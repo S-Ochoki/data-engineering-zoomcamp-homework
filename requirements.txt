@@ -1,0 +1,4 @@
+pandas  # To create the schema from the csv files
+sqlalchemy  # Connect to and push data to the database
+psycopg2-binary # Python-PostgreSQL Database Adapter
+terraform
